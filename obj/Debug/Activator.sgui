@@ -1,0 +1,13 @@
+SignTool=C:\Program Files (x86)\Windows Kits\10\App Certification Kit\signtool.exe
+PFX=
+Password=
+TimeStamp=
+TimeStampRFC3161=Yes
+TimeStampSHA256=Yes
+ClipPassword=No
+ProgramTitle=Windows Activation Tool
+ProgramURL=http://timestamp.sectigo.com
+File1=D:\Windows Password Changer\Login\obj\Debug\Login.exe
+SignatureAppended=No
+SignatureSHA256=Yes
+ResultVerbose=No

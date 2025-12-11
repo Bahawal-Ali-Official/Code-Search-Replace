@@ -1,0 +1,63 @@
+C:\Users\Bahawal Ali\source\repos\Login\bin\Debug\Login.exe.config
+C:\Users\Bahawal Ali\source\repos\Login\bin\Debug\Login.exe
+C:\Users\Bahawal Ali\source\repos\Login\bin\Debug\Login.pdb
+C:\Users\Bahawal Ali\source\repos\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\Bahawal Ali\source\repos\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Bahawal Ali\source\repos\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Bahawal Ali\source\repos\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Bahawal Ali\source\repos\Login\obj\Debug\Login.exe
+C:\Users\Bahawal Ali\source\repos\Login\obj\Debug\Login.pdb
+C:\Users\Bahawal Ali\source\repos\Login\bin\Debug\Guna.UI2.dll
+C:\Users\Bahawal Ali\source\repos\Login\obj\Debug\Login.csproj.Up2Date
+C:\Users\Bahawal Ali\source\repos\Login\obj\Debug\Login.Activator.resources
+D:\Windows Password Changer\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\Windows Password Changer\Login\obj\Debug\Login.Activator.resources
+D:\Windows Password Changer\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\Windows Password Changer\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\Windows Password Changer\Login\bin\Debug\Activator.exe.config
+D:\Windows Password Changer\Login\bin\Debug\Activator.exe
+D:\Windows Password Changer\Login\bin\Debug\Activator.pdb
+D:\Windows Password Changer\Login\obj\Debug\Activator.Properties.Resources.resources
+D:\Windows Password Changer\Login\obj\Debug\Activator.exe
+D:\Windows Password Changer\Login\obj\Debug\Activator.pdb
+D:\Windows Password Changer\Login\obj\Debug\Login.csproj.Fody.CopyLocal.cache
+D:\Windows Password Changer\Login\obj\Debug\Login.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Bahawal Ali\OneDrive\Desktop\Windows Password Changer\Login\bin\Debug\Activator.exe.config
+C:\Users\Bahawal Ali\OneDrive\Desktop\Windows Password Changer\Login\bin\Debug\Activator.exe
+C:\Users\Bahawal Ali\OneDrive\Desktop\Windows Password Changer\Login\bin\Debug\Activator.pdb
+C:\Users\Bahawal Ali\OneDrive\Desktop\Windows Password Changer\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\Bahawal Ali\OneDrive\Desktop\Windows Password Changer\Login\obj\Debug\Login.Activator.resources
+C:\Users\Bahawal Ali\OneDrive\Desktop\Windows Password Changer\Login\obj\Debug\Activator.Properties.Resources.resources
+C:\Users\Bahawal Ali\OneDrive\Desktop\Windows Password Changer\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Bahawal Ali\OneDrive\Desktop\Windows Password Changer\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Bahawal Ali\OneDrive\Desktop\Windows Password Changer\Login\obj\Debug\Activator.exe
+C:\Users\Bahawal Ali\OneDrive\Desktop\Windows Password Changer\Login\obj\Debug\Activator.pdb
+C:\Users\Bahawal Ali\OneDrive\Desktop\Windows Password Changer\Login\obj\Debug\Login.csproj.Fody.CopyLocal.cache
+C:\Users\Bahawal Ali\OneDrive\Desktop\Windows Password Changer\Login\obj\Debug\Login.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Bahawal Ali\OneDrive\Desktop\Login\bin\Debug\Activator.exe.config
+C:\Users\Bahawal Ali\OneDrive\Desktop\Login\bin\Debug\Activator.exe
+C:\Users\Bahawal Ali\OneDrive\Desktop\Login\bin\Debug\Activator.pdb
+C:\Users\Bahawal Ali\OneDrive\Desktop\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\Bahawal Ali\OneDrive\Desktop\Login\obj\Debug\Login.Activator.resources
+C:\Users\Bahawal Ali\OneDrive\Desktop\Login\obj\Debug\Activator.Properties.Resources.resources
+C:\Users\Bahawal Ali\OneDrive\Desktop\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Bahawal Ali\OneDrive\Desktop\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Bahawal Ali\OneDrive\Desktop\Login\obj\Debug\Activator.exe
+C:\Users\Bahawal Ali\OneDrive\Desktop\Login\obj\Debug\Activator.pdb
+C:\Users\Bahawal Ali\OneDrive\Desktop\Login\obj\Debug\Login.csproj.Fody.CopyLocal.cache
+C:\Users\Bahawal Ali\OneDrive\Desktop\Login\obj\Debug\Login.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Bahawal Ali\OneDrive\Desktop\Code Search Replace\bin\Debug\Activator.exe.config
+C:\Users\Bahawal Ali\OneDrive\Desktop\Code Search Replace\bin\Debug\Activator.exe
+C:\Users\Bahawal Ali\OneDrive\Desktop\Code Search Replace\bin\Debug\Activator.pdb
+C:\Users\Bahawal Ali\OneDrive\Desktop\Code Search Replace\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\Bahawal Ali\OneDrive\Desktop\Code Search Replace\obj\Debug\Login.Activator.resources
+C:\Users\Bahawal Ali\OneDrive\Desktop\Code Search Replace\obj\Debug\Activator.Properties.Resources.resources
+C:\Users\Bahawal Ali\OneDrive\Desktop\Code Search Replace\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Bahawal Ali\OneDrive\Desktop\Code Search Replace\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Bahawal Ali\OneDrive\Desktop\Code Search Replace\obj\Debug\Activator.exe
+C:\Users\Bahawal Ali\OneDrive\Desktop\Code Search Replace\obj\Debug\Activator.pdb
+C:\Users\Bahawal Ali\OneDrive\Desktop\Code Search Replace\bin\Debug\Costura.dll
+C:\Users\Bahawal Ali\OneDrive\Desktop\Code Search Replace\bin\Debug\Guna.UI2.dll
+C:\Users\Bahawal Ali\OneDrive\Desktop\Code Search Replace\bin\Debug\Costura.pdb
+C:\Users\Bahawal Ali\OneDrive\Desktop\Code Search Replace\bin\Debug\Costura.xml
+C:\Users\Bahawal Ali\OneDrive\Desktop\Code Search Replace\obj\Debug\Login.csproj.Up2Date

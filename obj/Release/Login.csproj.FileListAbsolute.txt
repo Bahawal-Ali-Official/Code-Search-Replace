@@ -1,0 +1,12 @@
+D:\Windows Password Changer\Login\bin\Release\Login.exe.config
+D:\Windows Password Changer\Login\bin\Release\Login.exe
+D:\Windows Password Changer\Login\bin\Release\Login.pdb
+D:\Windows Password Changer\Login\obj\Release\Login.csproj.AssemblyReference.cache
+D:\Windows Password Changer\Login\obj\Release\Login.Activator.resources
+D:\Windows Password Changer\Login\obj\Release\Login.Properties.Resources.resources
+D:\Windows Password Changer\Login\obj\Release\Login.csproj.GenerateResource.cache
+D:\Windows Password Changer\Login\obj\Release\Login.csproj.CoreCompileInputs.cache
+D:\Windows Password Changer\Login\obj\Release\Login.csproj.Fody.CopyLocal.cache
+D:\Windows Password Changer\Login\obj\Release\Login.csproj.Fody.RuntimeCopyLocal.cache
+D:\Windows Password Changer\Login\obj\Release\Login.exe
+D:\Windows Password Changer\Login\obj\Release\Login.pdb
