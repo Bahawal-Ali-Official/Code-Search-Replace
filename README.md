@@ -8,7 +8,7 @@
 
 ## 📸 Interface
 
-![Application Interface](image_54fcbc.jpg)
+![Application Interface](UI.png)
 *The main interface allows for process selection, value scanning, and memory modification.*
 
 ## 🚀 Features
